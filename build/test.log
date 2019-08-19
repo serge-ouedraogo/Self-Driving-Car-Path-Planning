@@ -1,0 +1,603 @@
+Listening to port 4567
+Connected!!!
+car_s: 10.5712 car_d: 6.05455
+end_s: 40
+end_d: 6
+n: 225
+ s = 1.26896e-316   distance = 6945.55   modulo = 1.26896e-316
+ s = 3.52331e-06   distance = 6945.55   modulo = 3.52331e-06
+ s = 2.82789e-05   distance = 6945.55   modulo = 2.82789e-05
+ s = 9.57503e-05   distance = 6945.55   modulo = 9.57503e-05
+ s = 0.00022769   distance = 6945.55   modulo = 0.00022769
+ s = 0.000446111   distance = 6945.55   modulo = 0.000446111
+ s = 0.000773284   distance = 6945.55   modulo = 0.000773284
+ s = 0.00123173   distance = 6945.55   modulo = 0.00123173
+ s = 0.00184421   distance = 6945.55   modulo = 0.00184421
+ s = 0.00263373   distance = 6945.55   modulo = 0.00263373
+ s = 0.00362351   distance = 6945.55   modulo = 0.00362351
+ s = 0.00483702   distance = 6945.55   modulo = 0.00483702
+ s = 0.00629793   distance = 6945.55   modulo = 0.00629793
+ s = 0.00803012   distance = 6945.55   modulo = 0.00803012
+ s = 0.0100577   distance = 6945.55   modulo = 0.0100577
+ s = 0.0124049   distance = 6945.55   modulo = 0.0124049
+ s = 0.0150963   distance = 6945.55   modulo = 0.0150963
+ s = 0.0181566   distance = 6945.55   modulo = 0.0181566
+ s = 0.0216105   distance = 6945.55   modulo = 0.0216105
+ s = 0.0254831   distance = 6945.55   modulo = 0.0254831
+ s = 0.0297997   distance = 6945.55   modulo = 0.0297997
+ s = 0.0345855   distance = 6945.55   modulo = 0.0345855
+ s = 0.0398661   distance = 6945.55   modulo = 0.0398661
+ s = 0.0456672   distance = 6945.55   modulo = 0.0456672
+ s = 0.0520145   distance = 6945.55   modulo = 0.0520145
+ s = 0.0589341   distance = 6945.55   modulo = 0.0589341
+ s = 0.066452   distance = 6945.55   modulo = 0.066452
+ s = 0.0745943   distance = 6945.55   modulo = 0.0745943
+ s = 0.0833875   distance = 6945.55   modulo = 0.0833875
+ s = 0.0928579   distance = 6945.55   modulo = 0.0928579
+ s = 0.103032   distance = 6945.55   modulo = 0.103032
+ s = 0.113937   distance = 6945.55   modulo = 0.113937
+ s = 0.125599   distance = 6945.55   modulo = 0.125599
+ s = 0.138044   distance = 6945.55   modulo = 0.138044
+ s = 0.151301   distance = 6945.55   modulo = 0.151301
+ s = 0.165396   distance = 6945.55   modulo = 0.165396
+ s = 0.180355   distance = 6945.55   modulo = 0.180355
+ s = 0.196207   distance = 6945.55   modulo = 0.196207
+ s = 0.212977   distance = 6945.55   modulo = 0.212977
+ s = 0.230694   distance = 6945.55   modulo = 0.230694
+ s = 0.249385   distance = 6945.55   modulo = 0.249385
+ s = 0.269077   distance = 6945.55   modulo = 0.269077
+ s = 0.289797   distance = 6945.55   modulo = 0.289797
+ s = 0.311572   distance = 6945.55   modulo = 0.311572
+ s = 0.334431   distance = 6945.55   modulo = 0.334431
+ s = 0.3584   distance = 6945.55   modulo = 0.3584
+ s = 0.383507   distance = 6945.55   modulo = 0.383507
+ s = 0.409779   distance = 6945.55   modulo = 0.409779
+ s = 0.437243   distance = 6945.55   modulo = 0.437243
+ s = 0.465928   distance = 6945.55   modulo = 0.465928
+ s = 0.495859   distance = 6945.55   modulo = 0.495859
+ s = 0.527066   distance = 6945.55   modulo = 0.527066
+ s = 0.559574   distance = 6945.55   modulo = 0.559574
+ s = 0.593411   distance = 6945.55   modulo = 0.593411
+ s = 0.628605   distance = 6945.55   modulo = 0.628605
+ s = 0.665182   distance = 6945.55   modulo = 0.665182
+ s = 0.70317   distance = 6945.55   modulo = 0.70317
+ s = 0.742596   distance = 6945.55   modulo = 0.742596
+ s = 0.783486   distance = 6945.55   modulo = 0.783486
+ s = 0.825868   distance = 6945.55   modulo = 0.825868
+ s = 0.869768   distance = 6945.55   modulo = 0.869768
+ s = 0.915213   distance = 6945.55   modulo = 0.915213
+ s = 0.96223   distance = 6945.55   modulo = 0.96223
+ s = 1.01085   distance = 6945.55   modulo = 1.01085
+ s = 1.06109   distance = 6945.55   modulo = 1.06109
+ s = 1.11298   distance = 6945.55   modulo = 1.11298
+ s = 1.16655   distance = 6945.55   modulo = 1.16655
+ s = 1.22182   distance = 6945.55   modulo = 1.22182
+ s = 1.27882   distance = 6945.55   modulo = 1.27882
+ s = 1.33757   distance = 6945.55   modulo = 1.33757
+ s = 1.39811   distance = 6945.55   modulo = 1.39811
+ s = 1.46045   distance = 6945.55   modulo = 1.46045
+ s = 1.52463   distance = 6945.55   modulo = 1.52463
+ s = 1.59066   distance = 6945.55   modulo = 1.59066
+ s = 1.65857   distance = 6945.55   modulo = 1.65857
+ s = 1.7284   distance = 6945.55   modulo = 1.7284
+ s = 1.80015   distance = 6945.55   modulo = 1.80015
+ s = 1.87385   distance = 6945.55   modulo = 1.87385
+ s = 1.94954   distance = 6945.55   modulo = 1.94954
+ s = 2.02723   distance = 6945.55   modulo = 2.02723
+ s = 2.10695   distance = 6945.55   modulo = 2.10695
+ s = 2.18873   distance = 6945.55   modulo = 2.18873
+ s = 2.27257   distance = 6945.55   modulo = 2.27257
+ s = 2.35852   distance = 6945.55   modulo = 2.35852
+ s = 2.44659   distance = 6945.55   modulo = 2.44659
+ s = 2.5368   distance = 6945.55   modulo = 2.5368
+ s = 2.62918   distance = 6945.55   modulo = 2.62918
+ s = 2.72374   distance = 6945.55   modulo = 2.72374
+ s = 2.82052   distance = 6945.55   modulo = 2.82052
+ s = 2.91953   distance = 6945.55   modulo = 2.91953
+ s = 3.0208   distance = 6945.55   modulo = 3.0208
+ s = 3.12434   distance = 6945.55   modulo = 3.12434
+ s = 3.23018   distance = 6945.55   modulo = 3.23018
+ s = 3.33833   distance = 6945.55   modulo = 3.33833
+ s = 3.44883   distance = 6945.55   modulo = 3.44883
+ s = 3.56168   distance = 6945.55   modulo = 3.56168
+ s = 3.6769   distance = 6945.55   modulo = 3.6769
+ s = 3.79453   distance = 6945.55   modulo = 3.79453
+ s = 3.91457   distance = 6945.55   modulo = 3.91457
+ s = 4.03704   distance = 6945.55   modulo = 4.03704
+ s = 4.16197   distance = 6945.55   modulo = 4.16197
+ s = 4.28937   distance = 6945.55   modulo = 4.28937
+ s = 4.41925   distance = 6945.55   modulo = 4.41925
+ s = 4.55165   distance = 6945.55   modulo = 4.55165
+ s = 4.68656   distance = 6945.55   modulo = 4.68656
+ s = 4.82402   distance = 6945.55   modulo = 4.82402
+ s = 4.96403   distance = 6945.55   modulo = 4.96403
+ s = 5.10662   distance = 6945.55   modulo = 5.10662
+ s = 5.25179   distance = 6945.55   modulo = 5.25179
+ s = 5.39957   distance = 6945.55   modulo = 5.39957
+ s = 5.54997   distance = 6945.55   modulo = 5.54997
+ s = 5.70299   distance = 6945.55   modulo = 5.70299
+ s = 5.85867   distance = 6945.55   modulo = 5.85867
+ s = 6.017   distance = 6945.55   modulo = 6.017
+ s = 6.17801   distance = 6945.55   modulo = 6.17801
+ s = 6.3417   distance = 6945.55   modulo = 6.3417
+ s = 6.50809   distance = 6945.55   modulo = 6.50809
+ s = 6.67719   distance = 6945.55   modulo = 6.67719
+ s = 6.84902   distance = 6945.55   modulo = 6.84902
+ s = 7.02357   distance = 6945.55   modulo = 7.02357
+ s = 7.20087   distance = 6945.55   modulo = 7.20087
+ s = 7.38092   distance = 6945.55   modulo = 7.38092
+ s = 7.56373   distance = 6945.55   modulo = 7.56373
+ s = 7.74932   distance = 6945.55   modulo = 7.74932
+ s = 7.93769   distance = 6945.55   modulo = 7.93769
+ s = 8.12884   distance = 6945.55   modulo = 8.12884
+ s = 8.32279   distance = 6945.55   modulo = 8.32279
+ s = 8.51955   distance = 6945.55   modulo = 8.51955
+ s = 8.71911   distance = 6945.55   modulo = 8.71911
+ s = 8.92149   distance = 6945.55   modulo = 8.92149
+ s = 9.1267   distance = 6945.55   modulo = 9.1267
+ s = 9.33473   distance = 6945.55   modulo = 9.33473
+ s = 9.54559   distance = 6945.55   modulo = 9.54559
+ s = 9.75929   distance = 6945.55   modulo = 9.75929
+ s = 9.97582   distance = 6945.55   modulo = 9.97582
+ s = 10.1952   distance = 6945.55   modulo = 10.1952
+ s = 10.4174   distance = 6945.55   modulo = 10.4174
+ s = 10.6425   distance = 6945.55   modulo = 10.6425
+ s = 10.8704   distance = 6945.55   modulo = 10.8704
+ s = 11.1012   distance = 6945.55   modulo = 11.1012
+ s = 11.3348   distance = 6945.55   modulo = 11.3348
+ s = 11.5712   distance = 6945.55   modulo = 11.5712
+ s = 11.8106   distance = 6945.55   modulo = 11.8106
+ s = 12.0527   distance = 6945.55   modulo = 12.0527
+ s = 12.2977   distance = 6945.55   modulo = 12.2977
+ s = 12.5455   distance = 6945.55   modulo = 12.5455
+ s = 12.7962   distance = 6945.55   modulo = 12.7962
+ s = 13.0497   distance = 6945.55   modulo = 13.0497
+ s = 13.306   distance = 6945.55   modulo = 13.306
+ s = 13.5652   distance = 6945.55   modulo = 13.5652
+ s = 13.8272   distance = 6945.55   modulo = 13.8272
+ s = 14.0919   distance = 6945.55   modulo = 14.0919
+ s = 14.3595   distance = 6945.55   modulo = 14.3595
+ s = 14.6299   distance = 6945.55   modulo = 14.6299
+ s = 14.9031   distance = 6945.55   modulo = 14.9031
+ s = 15.179   distance = 6945.55   modulo = 15.179
+ s = 15.4577   distance = 6945.55   modulo = 15.4577
+ s = 15.7391   distance = 6945.55   modulo = 15.7391
+ s = 16.0233   distance = 6945.55   modulo = 16.0233
+ s = 16.3103   distance = 6945.55   modulo = 16.3103
+ s = 16.5999   distance = 6945.55   modulo = 16.5999
+ s = 16.8923   distance = 6945.55   modulo = 16.8923
+ s = 17.1873   distance = 6945.55   modulo = 17.1873
+ s = 17.485   distance = 6945.55   modulo = 17.485
+ s = 17.7854   distance = 6945.55   modulo = 17.7854
+ s = 18.0885   distance = 6945.55   modulo = 18.0885
+ s = 18.3941   distance = 6945.55   modulo = 18.3941
+ s = 18.7024   distance = 6945.55   modulo = 18.7024
+ s = 19.0132   distance = 6945.55   modulo = 19.0132
+ s = 19.3266   distance = 6945.55   modulo = 19.3266
+ s = 19.6426   distance = 6945.55   modulo = 19.6426
+ s = 19.9611   distance = 6945.55   modulo = 19.9611
+ s = 20.2821   distance = 6945.55   modulo = 20.2821
+ s = 20.6056   distance = 6945.55   modulo = 20.6056
+ s = 20.9316   distance = 6945.55   modulo = 20.9316
+ s = 21.26   distance = 6945.55   modulo = 21.26
+ s = 21.5908   distance = 6945.55   modulo = 21.5908
+ s = 21.924   distance = 6945.55   modulo = 21.924
+ s = 22.2595   distance = 6945.55   modulo = 22.2595
+ s = 22.5974   distance = 6945.55   modulo = 22.5974
+ s = 22.9376   distance = 6945.55   modulo = 22.9376
+ s = 23.2801   distance = 6945.55   modulo = 23.2801
+ s = 23.6248   distance = 6945.55   modulo = 23.6248
+ s = 23.9717   distance = 6945.55   modulo = 23.9717
+ s = 24.3208   distance = 6945.55   modulo = 24.3208
+ s = 24.6721   distance = 6945.55   modulo = 24.6721
+ s = 25.0255   distance = 6945.55   modulo = 25.0255
+ s = 25.3809   distance = 6945.55   modulo = 25.3809
+ s = 25.7384   distance = 6945.55   modulo = 25.7384
+ s = 26.0979   distance = 6945.55   modulo = 26.0979
+ s = 26.4594   distance = 6945.55   modulo = 26.4594
+ s = 26.8229   distance = 6945.55   modulo = 26.8229
+ s = 27.1882   distance = 6945.55   modulo = 27.1882
+ s = 27.5554   distance = 6945.55   modulo = 27.5554
+ s = 27.9244   distance = 6945.55   modulo = 27.9244
+ s = 28.2952   distance = 6945.55   modulo = 28.2952
+ s = 28.6677   distance = 6945.55   modulo = 28.6677
+ s = 29.0419   distance = 6945.55   modulo = 29.0419
+ s = 29.4178   distance = 6945.55   modulo = 29.4178
+ s = 29.7952   distance = 6945.55   modulo = 29.7952
+ s = 30.1743   distance = 6945.55   modulo = 30.1743
+ s = 30.5548   distance = 6945.55   modulo = 30.5548
+ s = 30.9368   distance = 6945.55   modulo = 30.9368
+ s = 31.3202   distance = 6945.55   modulo = 31.3202
+ s = 31.7049   distance = 6945.55   modulo = 31.7049
+ s = 32.091   distance = 6945.55   modulo = 32.091
+ s = 32.4783   distance = 6945.55   modulo = 32.4783
+ s = 32.8669   distance = 6945.55   modulo = 32.8669
+ s = 33.2565   distance = 6945.55   modulo = 33.2565
+ s = 33.6473   distance = 6945.55   modulo = 33.6473
+ s = 34.0392   distance = 6945.55   modulo = 34.0392
+ s = 34.432   distance = 6945.55   modulo = 34.432
+ s = 34.8257   distance = 6945.55   modulo = 34.8257
+ s = 35.2203   distance = 6945.55   modulo = 35.2203
+ s = 35.6157   distance = 6945.55   modulo = 35.6157
+ s = 36.0118   distance = 6945.55   modulo = 36.0118
+ s = 36.4087   distance = 6945.55   modulo = 36.4087
+ s = 36.8061   distance = 6945.55   modulo = 36.8061
+ s = 37.2041   distance = 6945.55   modulo = 37.2041
+ s = 37.6026   distance = 6945.55   modulo = 37.6026
+ s = 38.0015   distance = 6945.55   modulo = 38.0015
+ s = 38.4008   distance = 6945.55   modulo = 38.4008
+ s = 38.8003   distance = 6945.55   modulo = 38.8003
+ s = 39.2001   distance = 6945.55   modulo = 39.2001
+ s = 39.6   distance = 6945.55   modulo = 39.6
+car_s: 11.1102 car_d: 4.33296
+car_s: 11.8212 car_d: 4.46804
+car_s: 12.5578 car_d: 4.5977
+car_s: 13.8425 car_d: 4.80492
+car_s: 15.1978 car_d: 4.99869
+car_s: 16.332 car_d: 5.14203
+car_s: 17.2113 car_d: 5.24367
+car_s: 18.7304 car_d: 5.39801
+car_s: 19.9924 car_d: 5.50766
+car_s: 21.6264 car_d: 5.62859
+car_s: 22.9768 car_d: 5.71136
+car_s: 24.3637 car_d: 5.78238
+car_s: 25.785 car_d: 5.83974
+car_s: 27.2385 car_d: 5.88434
+car_s: 28.7217 car_d: 5.91635
+car_s: 30.6132 car_d: 5.93983
+car_s: 32.4206 car_d: 5.98212
+car_s: 33.9848 car_d: 6.00611
+ n afert start: 14
+n: 14
+ s = 9.71942e-72   distance = 6945.55   modulo = 9.71942e-72
+ s = 2.189e-05   distance = 6945.55   modulo = 2.189e-05
+ s = 0.00017424   distance = 6945.55   modulo = 0.00017424
+ s = 0.00058509   distance = 6945.55   modulo = 0.00058509
+ s = 0.00137984   distance = 6945.55   modulo = 0.00137984
+ s = 0.00268125   distance = 6945.55   modulo = 0.00268125
+ s = 0.00460944   distance = 6945.55   modulo = 0.00460944
+ s = 0.00728189   distance = 6945.55   modulo = 0.00728189
+ s = 0.0108134   distance = 6945.55   modulo = 0.0108134
+ s = 0.0153163   distance = 6945.55   modulo = 0.0153163
+ s = 0.0209   distance = 6945.55   modulo = 0.0209
+ s = 0.0276715   distance = 6945.55   modulo = 0.0276715
+ s = 0.035735   distance = 6945.55   modulo = 0.035735
+ s = 0.0451923   distance = 6945.55   modulo = 0.0451923
+ s = 0.0561422   distance = 6945.55   modulo = 0.0561422
+ s = 0.0686812   distance = 6945.55   modulo = 0.0686812
+ s = 0.082903   distance = 6945.55   modulo = 0.082903
+ s = 0.0988987   distance = 6945.55   modulo = 0.0988987
+ s = 0.116757   distance = 6945.55   modulo = 0.116757
+ s = 0.136563   distance = 6945.55   modulo = 0.136563
+ s = 0.1584   distance = 6945.55   modulo = 0.1584
+ s = 0.182349   distance = 6945.55   modulo = 0.182349
+ s = 0.208488   distance = 6945.55   modulo = 0.208488
+ s = 0.236891   distance = 6945.55   modulo = 0.236891
+ s = 0.267633   distance = 6945.55   modulo = 0.267633
+ s = 0.300781   distance = 6945.55   modulo = 0.300781
+ s = 0.336405   distance = 6945.55   modulo = 0.336405
+ s = 0.374567   distance = 6945.55   modulo = 0.374567
+ s = 0.415332   distance = 6945.55   modulo = 0.415332
+ s = 0.458757   distance = 6945.55   modulo = 0.458757
+ s = 0.5049   distance = 6945.55   modulo = 0.5049
+ s = 0.553815   distance = 6945.55   modulo = 0.553815
+ s = 0.605553   distance = 6945.55   modulo = 0.605553
+ s = 0.660163   distance = 6945.55   modulo = 0.660163
+ s = 0.717691   distance = 6945.55   modulo = 0.717691
+ s = 0.778181   distance = 6945.55   modulo = 0.778181
+ s = 0.841674   distance = 6945.55   modulo = 0.841674
+ s = 0.908208   distance = 6945.55   modulo = 0.908208
+ s = 0.977819   distance = 6945.55   modulo = 0.977819
+ s = 1.05054   distance = 6945.55   modulo = 1.05054
+ s = 1.1264   distance = 6945.55   modulo = 1.1264
+ s = 1.20543   distance = 6945.55   modulo = 1.20543
+ s = 1.28765   distance = 6945.55   modulo = 1.28765
+ s = 1.37309   distance = 6945.55   modulo = 1.37309
+ s = 1.46176   distance = 6945.55   modulo = 1.46176
+ s = 1.55368   distance = 6945.55   modulo = 1.55368
+ s = 1.64887   distance = 6945.55   modulo = 1.64887
+ s = 1.74734   distance = 6945.55   modulo = 1.74734
+ s = 1.8491   distance = 6945.55   modulo = 1.8491
+ s = 1.95415   distance = 6945.55   modulo = 1.95415
+ s = 2.0625   distance = 6945.55   modulo = 2.0625
+ s = 2.17415   distance = 6945.55   modulo = 2.17415
+ s = 2.2891   distance = 6945.55   modulo = 2.2891
+ s = 2.40734   distance = 6945.55   modulo = 2.40734
+ s = 2.52887   distance = 6945.55   modulo = 2.52887
+ s = 2.65368   distance = 6945.55   modulo = 2.65368
+ s = 2.78176   distance = 6945.55   modulo = 2.78176
+ s = 2.91309   distance = 6945.55   modulo = 2.91309
+ s = 3.04765   distance = 6945.55   modulo = 3.04765
+ s = 3.18543   distance = 6945.55   modulo = 3.18543
+ s = 3.3264   distance = 6945.55   modulo = 3.3264
+ s = 3.47054   distance = 6945.55   modulo = 3.47054
+ s = 3.61782   distance = 6945.55   modulo = 3.61782
+ s = 3.76821   distance = 6945.55   modulo = 3.76821
+ s = 3.92167   distance = 6945.55   modulo = 3.92167
+ s = 4.07818   distance = 6945.55   modulo = 4.07818
+ s = 4.23769   distance = 6945.55   modulo = 4.23769
+ s = 4.40016   distance = 6945.55   modulo = 4.40016
+ s = 4.56555   distance = 6945.55   modulo = 4.56555
+ s = 4.73381   distance = 6945.55   modulo = 4.73381
+ s = 4.9049   distance = 6945.55   modulo = 4.9049
+ s = 5.07876   distance = 6945.55   modulo = 5.07876
+ s = 5.25533   distance = 6945.55   modulo = 5.25533
+ s = 5.43457   distance = 6945.55   modulo = 5.43457
+ s = 5.6164   distance = 6945.55   modulo = 5.6164
+ s = 5.80078   distance = 6945.55   modulo = 5.80078
+ s = 5.98763   distance = 6945.55   modulo = 5.98763
+ s = 6.17689   distance = 6945.55   modulo = 6.17689
+ s = 6.36849   distance = 6945.55   modulo = 6.36849
+ s = 6.56235   distance = 6945.55   modulo = 6.56235
+ s = 6.7584   distance = 6945.55   modulo = 6.7584
+ s = 6.95656   distance = 6945.55   modulo = 6.95656
+ s = 7.15676   distance = 6945.55   modulo = 7.15676
+ s = 7.3589   distance = 6945.55   modulo = 7.3589
+ s = 7.5629   distance = 6945.55   modulo = 7.5629
+ s = 7.76868   distance = 6945.55   modulo = 7.76868
+ s = 7.97614   distance = 6945.55   modulo = 7.97614
+ s = 8.18519   distance = 6945.55   modulo = 8.18519
+ s = 8.39574   distance = 6945.55   modulo = 8.39574
+ s = 8.60767   distance = 6945.55   modulo = 8.60767
+ s = 8.8209   distance = 6945.55   modulo = 8.8209
+ s = 9.03532   distance = 6945.55   modulo = 9.03532
+ s = 9.25081   distance = 6945.55   modulo = 9.25081
+ s = 9.46728   distance = 6945.55   modulo = 9.46728
+ s = 9.68461   distance = 6945.55   modulo = 9.68461
+ s = 9.90268   distance = 6945.55   modulo = 9.90268
+ s = 10.1214   distance = 6945.55   modulo = 10.1214
+ s = 10.3406   distance = 6945.55   modulo = 10.3406
+ s = 10.5602   distance = 6945.55   modulo = 10.5602
+ s = 10.78   distance = 6945.55   modulo = 10.78
+car_s: 35.5647 car_d: 6.02302
+car_s: 37.5559 car_d: 6.03378
+car_s: 39.1568 car_d: 6.03676
+car_s: 0.000183066 car_d: -3.82482e-06
+car_s: 0.00452397 car_d: 0.0119931
+car_s: 0.0275376 car_d: 0.0674327
+car_s: 0.0824444 car_d: 0.191313
+car_s: 0.157529 car_d: 0.348836
+car_s: 0.29921 car_d: 0.622914
+car_s: 0.4566 car_d: 0.903745
+car_s: 0.714628 car_d: 1.32337
+car_s: 0.973981 car_d: 1.70708
+car_s: 1.36837 car_d: 2.23094
+car_s: 1.84388 car_d: 2.78619
+car_s: 2.40193 car_d: 3.35058
+car_s: 2.90771 car_d: 3.79409
+car_s: 3.46546 car_d: 4.21857
+car_s: 4.07391 car_d: 4.61195
+car_s: 4.73059 car_d: 4.96733
+car_s: 5.4327 car_d: 5.27671
+car_s: 6.17674 car_d: 5.5332
+car_s: 7.15893 car_d: 5.77775
+car_s: 7.98045 car_d: 5.91162
+ n afert start: 13
+n: 13
+ s = 11   distance = 6945.55   modulo = 11
+ s = 11.22   distance = 6945.55   modulo = 11.22
+ s = 11.44   distance = 6945.55   modulo = 11.44
+ s = 11.66   distance = 6945.55   modulo = 11.66
+ s = 11.88   distance = 6945.55   modulo = 11.88
+ s = 12.1   distance = 6945.55   modulo = 12.1
+ s = 12.32   distance = 6945.55   modulo = 12.32
+ s = 12.54   distance = 6945.55   modulo = 12.54
+ s = 12.76   distance = 6945.55   modulo = 12.76
+ s = 12.98   distance = 6945.55   modulo = 12.98
+ s = 13.2   distance = 6945.55   modulo = 13.2
+ s = 13.42   distance = 6945.55   modulo = 13.42
+ s = 13.64   distance = 6945.55   modulo = 13.64
+ s = 13.86   distance = 6945.55   modulo = 13.86
+ s = 14.08   distance = 6945.55   modulo = 14.08
+ s = 14.3   distance = 6945.55   modulo = 14.3
+ s = 14.52   distance = 6945.55   modulo = 14.52
+ s = 14.74   distance = 6945.55   modulo = 14.74
+ s = 14.96   distance = 6945.55   modulo = 14.96
+ s = 15.18   distance = 6945.55   modulo = 15.18
+ s = 15.4   distance = 6945.55   modulo = 15.4
+ s = 15.62   distance = 6945.55   modulo = 15.62
+ s = 15.84   distance = 6945.55   modulo = 15.84
+ s = 16.06   distance = 6945.55   modulo = 16.06
+ s = 16.28   distance = 6945.55   modulo = 16.28
+ s = 16.5   distance = 6945.55   modulo = 16.5
+ s = 16.72   distance = 6945.55   modulo = 16.72
+ s = 16.94   distance = 6945.55   modulo = 16.94
+ s = 17.16   distance = 6945.55   modulo = 17.16
+ s = 17.38   distance = 6945.55   modulo = 17.38
+ s = 17.6   distance = 6945.55   modulo = 17.6
+ s = 17.82   distance = 6945.55   modulo = 17.82
+ s = 18.04   distance = 6945.55   modulo = 18.04
+ s = 18.26   distance = 6945.55   modulo = 18.26
+ s = 18.48   distance = 6945.55   modulo = 18.48
+ s = 18.7   distance = 6945.55   modulo = 18.7
+ s = 18.92   distance = 6945.55   modulo = 18.92
+ s = 19.14   distance = 6945.55   modulo = 19.14
+ s = 19.36   distance = 6945.55   modulo = 19.36
+ s = 19.58   distance = 6945.55   modulo = 19.58
+ s = 19.8   distance = 6945.55   modulo = 19.8
+ s = 20.02   distance = 6945.55   modulo = 20.02
+ s = 20.24   distance = 6945.55   modulo = 20.24
+ s = 20.46   distance = 6945.55   modulo = 20.46
+ s = 20.68   distance = 6945.55   modulo = 20.68
+ s = 20.9   distance = 6945.55   modulo = 20.9
+ s = 21.12   distance = 6945.55   modulo = 21.12
+ s = 21.34   distance = 6945.55   modulo = 21.34
+ s = 21.56   distance = 6945.55   modulo = 21.56
+ s = 21.78   distance = 6945.55   modulo = 21.78
+ s = 22   distance = 6945.55   modulo = 22
+ s = 22.22   distance = 6945.55   modulo = 22.22
+ s = 22.44   distance = 6945.55   modulo = 22.44
+ s = 22.66   distance = 6945.55   modulo = 22.66
+ s = 22.88   distance = 6945.55   modulo = 22.88
+ s = 23.1   distance = 6945.55   modulo = 23.1
+ s = 23.32   distance = 6945.55   modulo = 23.32
+ s = 23.54   distance = 6945.55   modulo = 23.54
+ s = 23.76   distance = 6945.55   modulo = 23.76
+ s = 23.98   distance = 6945.55   modulo = 23.98
+ s = 24.2   distance = 6945.55   modulo = 24.2
+ s = 24.42   distance = 6945.55   modulo = 24.42
+ s = 24.64   distance = 6945.55   modulo = 24.64
+ s = 24.86   distance = 6945.55   modulo = 24.86
+ s = 25.08   distance = 6945.55   modulo = 25.08
+ s = 25.3   distance = 6945.55   modulo = 25.3
+ s = 25.52   distance = 6945.55   modulo = 25.52
+ s = 25.74   distance = 6945.55   modulo = 25.74
+ s = 25.96   distance = 6945.55   modulo = 25.96
+ s = 26.18   distance = 6945.55   modulo = 26.18
+ s = 26.4   distance = 6945.55   modulo = 26.4
+ s = 26.62   distance = 6945.55   modulo = 26.62
+ s = 26.84   distance = 6945.55   modulo = 26.84
+ s = 27.06   distance = 6945.55   modulo = 27.06
+ s = 27.28   distance = 6945.55   modulo = 27.28
+ s = 27.5   distance = 6945.55   modulo = 27.5
+ s = 27.72   distance = 6945.55   modulo = 27.72
+ s = 27.94   distance = 6945.55   modulo = 27.94
+ s = 28.16   distance = 6945.55   modulo = 28.16
+ s = 28.38   distance = 6945.55   modulo = 28.38
+ s = 28.6   distance = 6945.55   modulo = 28.6
+ s = 28.82   distance = 6945.55   modulo = 28.82
+ s = 29.04   distance = 6945.55   modulo = 29.04
+ s = 29.26   distance = 6945.55   modulo = 29.26
+ s = 29.48   distance = 6945.55   modulo = 29.48
+ s = 29.7   distance = 6945.55   modulo = 29.7
+ s = 29.92   distance = 6945.55   modulo = 29.92
+ s = 30.14   distance = 6945.55   modulo = 30.14
+ s = 30.36   distance = 6945.55   modulo = 30.36
+ s = 30.58   distance = 6945.55   modulo = 30.58
+ s = 30.8   distance = 6945.55   modulo = 30.8
+ s = 31.02   distance = 6945.55   modulo = 31.02
+ s = 31.24   distance = 6945.55   modulo = 31.24
+ s = 31.46   distance = 6945.55   modulo = 31.46
+ s = 31.68   distance = 6945.55   modulo = 31.68
+ s = 31.9   distance = 6945.55   modulo = 31.9
+ s = 32.12   distance = 6945.55   modulo = 32.12
+ s = 32.34   distance = 6945.55   modulo = 32.34
+ s = 32.56   distance = 6945.55   modulo = 32.56
+ s = 32.78   distance = 6945.55   modulo = 32.78
+car_s: 8.82749 car_d: 5.99599
+car_s: 9.69338 car_d: 6.03883
+car_s: 10.5712 car_d: 6.05455
+car_s: 11.4533 car_d: 6.0581
+car_s: 12.556 car_d: 6.06107
+car_s: 13.4383 car_d: 6.06363
+car_s: 14.3205 car_d: 6.06522
+car_s: 15.4232 car_d: 6.06722
+car_s: 16.526 car_d: 6.06921
+car_s: 17.4081 car_d: 6.06872
+car_s: 18.2903 car_d: 6.06934
+car_s: 19.1725 car_d: 6.06886
+car_s: 20.0546 car_d: 6.0674
+car_s: 20.9368 car_d: 6.06606
+car_s: 22.0395 car_d: 6.06304
+car_s: 23.142 car_d: 6.05893
+car_s: 24.2447 car_d: 6.05397
+car_s: 25.3472 car_d: 6.0479
+car_s: 26.2292 car_d: 6.04144
+car_s: 27.1113 car_d: 6.0351
+car_s: 28.2138 car_d: 6.02598
+car_s: 29.0957 car_d: 6.01757
+car_s: 29.9776 car_d: 6.00818
+ n afert start: 13
+n: 13
+ s = 33   distance = 6945.55   modulo = 33
+ s = 33.22   distance = 6945.55   modulo = 33.22
+ s = 33.44   distance = 6945.55   modulo = 33.44
+ s = 33.66   distance = 6945.55   modulo = 33.66
+ s = 33.88   distance = 6945.55   modulo = 33.88
+ s = 34.1   distance = 6945.55   modulo = 34.1
+ s = 34.32   distance = 6945.55   modulo = 34.32
+ s = 34.54   distance = 6945.55   modulo = 34.54
+ s = 34.76   distance = 6945.55   modulo = 34.76
+ s = 34.98   distance = 6945.55   modulo = 34.98
+ s = 35.2   distance = 6945.55   modulo = 35.2
+ s = 35.42   distance = 6945.55   modulo = 35.42
+ s = 35.64   distance = 6945.55   modulo = 35.64
+ s = 35.86   distance = 6945.55   modulo = 35.86
+ s = 36.08   distance = 6945.55   modulo = 36.08
+ s = 36.3   distance = 6945.55   modulo = 36.3
+ s = 36.52   distance = 6945.55   modulo = 36.52
+ s = 36.74   distance = 6945.55   modulo = 36.74
+ s = 36.96   distance = 6945.55   modulo = 36.96
+ s = 37.18   distance = 6945.55   modulo = 37.18
+ s = 37.4   distance = 6945.55   modulo = 37.4
+ s = 37.62   distance = 6945.55   modulo = 37.62
+ s = 37.84   distance = 6945.55   modulo = 37.84
+ s = 38.06   distance = 6945.55   modulo = 38.06
+ s = 38.28   distance = 6945.55   modulo = 38.28
+ s = 38.5   distance = 6945.55   modulo = 38.5
+ s = 38.72   distance = 6945.55   modulo = 38.72
+ s = 38.94   distance = 6945.55   modulo = 38.94
+ s = 39.16   distance = 6945.55   modulo = 39.16
+ s = 39.38   distance = 6945.55   modulo = 39.38
+ s = 39.6   distance = 6945.55   modulo = 39.6
+ s = 39.82   distance = 6945.55   modulo = 39.82
+ s = 40.04   distance = 6945.55   modulo = 40.04
+ s = 40.26   distance = 6945.55   modulo = 40.26
+ s = 40.48   distance = 6945.55   modulo = 40.48
+ s = 40.7   distance = 6945.55   modulo = 40.7
+ s = 40.92   distance = 6945.55   modulo = 40.92
+ s = 41.14   distance = 6945.55   modulo = 41.14
+ s = 41.36   distance = 6945.55   modulo = 41.36
+ s = 41.58   distance = 6945.55   modulo = 41.58
+ s = 41.8   distance = 6945.55   modulo = 41.8
+ s = 42.02   distance = 6945.55   modulo = 42.02
+ s = 42.24   distance = 6945.55   modulo = 42.24
+ s = 42.46   distance = 6945.55   modulo = 42.46
+ s = 42.68   distance = 6945.55   modulo = 42.68
+ s = 42.9   distance = 6945.55   modulo = 42.9
+ s = 43.12   distance = 6945.55   modulo = 43.12
+ s = 43.34   distance = 6945.55   modulo = 43.34
+ s = 43.56   distance = 6945.55   modulo = 43.56
+ s = 43.78   distance = 6945.55   modulo = 43.78
+ s = 44   distance = 6945.55   modulo = 44
+ s = 44.22   distance = 6945.55   modulo = 44.22
+ s = 44.44   distance = 6945.55   modulo = 44.44
+ s = 44.66   distance = 6945.55   modulo = 44.66
+ s = 44.88   distance = 6945.55   modulo = 44.88
+ s = 45.1   distance = 6945.55   modulo = 45.1
+ s = 45.32   distance = 6945.55   modulo = 45.32
+ s = 45.54   distance = 6945.55   modulo = 45.54
+ s = 45.76   distance = 6945.55   modulo = 45.76
+ s = 45.98   distance = 6945.55   modulo = 45.98
+ s = 46.2   distance = 6945.55   modulo = 46.2
+ s = 46.42   distance = 6945.55   modulo = 46.42
+ s = 46.64   distance = 6945.55   modulo = 46.64
+ s = 46.86   distance = 6945.55   modulo = 46.86
+ s = 47.08   distance = 6945.55   modulo = 47.08
+ s = 47.3   distance = 6945.55   modulo = 47.3
+ s = 47.52   distance = 6945.55   modulo = 47.52
+ s = 47.74   distance = 6945.55   modulo = 47.74
+ s = 47.96   distance = 6945.55   modulo = 47.96
+ s = 48.18   distance = 6945.55   modulo = 48.18
+ s = 48.4   distance = 6945.55   modulo = 48.4
+ s = 48.62   distance = 6945.55   modulo = 48.62
+ s = 48.84   distance = 6945.55   modulo = 48.84
+ s = 49.06   distance = 6945.55   modulo = 49.06
+ s = 49.28   distance = 6945.55   modulo = 49.28
+ s = 49.5   distance = 6945.55   modulo = 49.5
+ s = 49.72   distance = 6945.55   modulo = 49.72
+ s = 49.94   distance = 6945.55   modulo = 49.94
+ s = 50.16   distance = 6945.55   modulo = 50.16
+ s = 50.38   distance = 6945.55   modulo = 50.38
+ s = 50.6   distance = 6945.55   modulo = 50.6
+ s = 50.82   distance = 6945.55   modulo = 50.82
+ s = 51.04   distance = 6945.55   modulo = 51.04
+ s = 51.26   distance = 6945.55   modulo = 51.26
+ s = 51.48   distance = 6945.55   modulo = 51.48
+ s = 51.7   distance = 6945.55   modulo = 51.7
+ s = 51.92   distance = 6945.55   modulo = 51.92
+ s = 52.14   distance = 6945.55   modulo = 52.14
+ s = 52.36   distance = 6945.55   modulo = 52.36
+ s = 52.58   distance = 6945.55   modulo = 52.58
+ s = 52.8   distance = 6945.55   modulo = 52.8
+ s = 53.02   distance = 6945.55   modulo = 53.02
+ s = 53.24   distance = 6945.55   modulo = 53.24
+ s = 53.46   distance = 6945.55   modulo = 53.46
+ s = 53.68   distance = 6945.55   modulo = 53.68
+ s = 53.9   distance = 6945.55   modulo = 53.9
+ s = 54.12   distance = 6945.55   modulo = 54.12
+ s = 54.34   distance = 6945.55   modulo = 54.34
+ s = 54.56   distance = 6945.55   modulo = 54.56
+ s = 54.78   distance = 6945.55   modulo = 54.78
+car_s: 30.9588 car_d: 6.00311
+car_s: 32.0613 car_d: 6.01141

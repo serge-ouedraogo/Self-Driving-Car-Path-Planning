@@ -1,0 +1,32 @@
+116c116
+<           // Do I have have previous points
+---
+>           
+118c118
+<             // There are not too many...
+---
+>             
+129c129
+<             // Use the last two points.
+---
+>             
+144c144
+<           // Setting up target points in the future.
+---
+>           
+157c157
+<           // Making coordinates to local car coordinates.
+---
+>           
+166c166
+<           // Create the spline.
+---
+>           
+169c169
+<           // Output path points from previous path for continuity.
+---
+>           
+178c178
+<           // Calculate distance y position on 30 m ahead.
+---
+>           

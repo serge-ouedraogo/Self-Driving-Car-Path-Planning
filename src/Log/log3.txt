@@ -1,0 +1,52 @@
+116c116
+<           // Do I have have previous points
+---
+>           
+118c118
+<             // There are not too many...
+---
+>             
+129c129
+<             // Use the last two points.
+---
+>             
+144c144
+<           // Setting up target points in the future.
+---
+>           
+157c157
+<           // Making coordinates to local car coordinates.
+---
+>           
+166,169c166,169
+<           // Create the spline.
+<           tk::spline s;
+<           s.set_points(ptsx, ptsy);
+<           // Output path points from previous path for continuity.
+---
+>           
+>           tk::spline spline_s;
+>           spline_s.set_points(ptsx, ptsy);
+>           
+178c178
+<           // Calculate distance y position on 30 m ahead.
+---
+>           
+180c180
+<           double target_y = s(target_x);
+---
+>           double target_y = spline_s(target_x);
+183c183
+<           double x_add_on = 0;
+---
+>           double start_x = 0;
+187,188c187,188
+<             double x_point = x_add_on + target_x/N;
+<             double y_point = s(x_point);
+---
+>             double x_point = start_x + target_x/N;
+>             double y_point = spline_s(x_point);
+190c190
+<             x_add_on = x_point;
+---
+>             start_x = x_point;
