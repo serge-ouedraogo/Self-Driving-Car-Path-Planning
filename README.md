@@ -1,9 +1,5 @@
 # CarND-Path-Planning-Project
 
-To run the simulator on Mac/Linux, first make the binary file executable with the following command:
-```shell
-sudo chmod u+x {simulator_file_name}
-```
 ### Goals
 In this project the goal is to safely navigate around a virtual highway with other traffic that is driving +-10 MPH of the 50 MPH speed limit. The car goes as close as possible to the 50 MPH speed limit, which means passing slower traffic when possible, while other cars try to change lanes too. The car avoids hitting other cars at all cost as well as driving inside of the marked road lanes at all times, unless going from one lane to another. The car makes one complete loop around the 6946m highway going at 50 MPH max
 The car localization and sensor fusion data are provided, together with a sparse map list of waypoints around the highway. 
